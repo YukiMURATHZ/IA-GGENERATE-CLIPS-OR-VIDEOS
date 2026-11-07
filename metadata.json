@@ -1,0 +1,6 @@
+{
+  "name": "ClipPulse AI - Auto Short Clips & Virality Studio",
+  "description": "Plataforma inteligente de recorte automático de videos con IA, auto-framing 9:16, subtítulos animados estilo karaoke y estimación de viralidad para creadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
